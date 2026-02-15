@@ -12,5 +12,5 @@ A simple recommendation system for [courses/products/gig opportunities] built in
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/ai-recommender-system.git
+   git clone https://github.com/M-NOUMAN-QAISER/ai-recommender-system.git
    cd ai-recommender-system
