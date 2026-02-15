@@ -10,7 +10,7 @@ def index():
 
 @app.route("/recommend/<item_id>")
 def get_recommendations(item_id):
-    # TODO: later replace this with your real recommender logic
+    # TODO: later replace this with our real recommender logic
     recommendations = [
         {"item_id": "101", "title": "Intro to Python", "score": 0.95},
         {"item_id": "102", "title": "Data Science Basics", "score": 0.87},
