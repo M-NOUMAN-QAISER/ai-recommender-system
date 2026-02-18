@@ -1,0 +1,9 @@
+id,title,description,category,tags
+1,Intro to Python,Learn the basics of Python programming language for beginners,Programming,"python,basics,beginner"
+2,Advanced Python,Master advanced Python concepts like decorators and generators,Programming,"python,advanced,decorators"
+3,Data Science Basics,Introduction to data science with Python pandas and visualization,Data Science,"data science,pandas,matplotlib"
+4,Machine Learning 101,Learn machine learning fundamentals with scikit-learn,Machine Learning,"ml,scikit-learn,regression"
+5,Deep Learning with TensorFlow,Build neural networks using TensorFlow and Keras,Deep Learning,"tensorflow,keras,nn"
+6,Web Development with Django,Build web applications using Django framework,Web Development,"django,web,framework"
+7,React Native Mobile Apps,Create cross-platform mobile apps with React Native,Mobile Development,"react native,mobile,ios,android"
+8,SQL for Data Analysts,Master SQL queries for data analysis and reporting,Database,"sql,data analysis,queries"
